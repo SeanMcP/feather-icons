@@ -18,5 +18,15 @@
     "bugs": {
         "url": "https://github.com/seanmcp/feather-icons/issues"
     },
-    "homepage": "https://github.com/seanmcp/feather-icons#readme"
+    "homepage": "https://github.com/seanmcp/feather-icons#readme",
+    "devDependencies": {
+        "@types/react": "^16.8.24",
+        "@types/react-dom": "^16.8.5",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "typescript": "^3.5.3"
+    },
+    "dependencies": {
+        "react-feather": "^2.0.3"
+    }
 }
